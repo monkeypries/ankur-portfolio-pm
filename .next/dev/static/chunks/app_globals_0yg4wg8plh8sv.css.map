@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/kp/Ankur/ankur_portfolio/app/globals.css"],"sourcesContent":["@layer base {\r\n  body {\r\n    background-color: #030712;\r\n    color: #f3f4f6;\r\n    font-family: system-ui, -apple-system, sans-serif;\r\n    margin: 0;\r\n    padding: 0;\r\n  }\r\n}"],"names":[],"mappings":"AAAA;EACE"}}]
+}
